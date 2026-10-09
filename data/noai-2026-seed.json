@@ -1,0 +1,1197 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-10-09T19:15:00.000Z",
+  "feedUrl": "https://fest.philosophers.group/content.json",
+  "feedHash": "2f41013089e4a84c253c60ccfecf09e7a13ce7a82538c1edf2c23185b2d97296",
+  "scope": "Only the 48 published 2026 schedule entries. Summaries are editorial paraphrases; profiles are separate unverified candidates.",
+  "feed": {
+    "schedule": [
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "4:20 PM",
+        "sort_time": "16:20",
+        "raw_time_range": "4:20–5:30",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Doors / Reception / Music",
+        "presenters": "",
+        "type": "Party",
+        "tag": "Networking",
+        "presentation_id": null
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "5:00 PM",
+        "sort_time": "17:00",
+        "raw_time_range": "5:00–5:15",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Welcome & Opening Remarks",
+        "presenters": "Joseph Makkos; Greg Lambousy, New Orleans Jazz Museum",
+        "type": "Informational",
+        "tag": "",
+        "presentation_id": null
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "5:30 PM",
+        "sort_time": "17:30",
+        "raw_time_range": "5:30–6:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Is AI Acceleration Good for New Orleans?",
+        "presenters": "JP Morrell, President, New Orleans City Council",
+        "type": "Fireside Chat",
+        "tag": "",
+        "presentation_id": 2901
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "6:00 PM",
+        "sort_time": "18:00",
+        "raw_time_range": "6:00–6:10",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Open the Studio",
+        "presenters": "Marcus Rosser",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": 2760
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "6:10 PM",
+        "sort_time": "18:10",
+        "raw_time_range": "6:10–6:20",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "The Ella Project: What We Do",
+        "presenters": "Gene Meneray",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": null
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "6:20 PM",
+        "sort_time": "18:20",
+        "raw_time_range": "6:20–6:30",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Nobody Asked for This",
+        "presenters": "Cam'ron Caldwell",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": 2813
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "6:30 PM",
+        "sort_time": "18:30",
+        "raw_time_range": "6:30–7:30",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Future of Education Fireside Chat",
+        "presenters": "Mary Hubbard (President, Open Web Alliance) + Ronnie Morris (President, BESE) + Dr. Jim Henderson (President, Louisiana Tech)",
+        "type": "Fireside Chat",
+        "tag": "Education, Policy & Funding",
+        "presentation_id": 2904
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "7:30 PM",
+        "sort_time": "19:30",
+        "raw_time_range": "7:30–8:00",
+        "location": "Streets",
+        "title": "NOAI Secondline to Francis Ford Coppola's House",
+        "presenters": "",
+        "type": "Party",
+        "tag": "Networking",
+        "presentation_id": 2903
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "7:55 PM",
+        "sort_time": "19:55",
+        "raw_time_range": "7:55 →",
+        "location": "714 Governor Nichols St.",
+        "title": "Party – Talks, Tarot, and \"NOAI\" Burial",
+        "presenters": "Greg Bresnitz, Entrepreneurs' Tarot",
+        "type": "Party",
+        "tag": "Networking",
+        "presentation_id": null
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "7:55 PM",
+        "sort_time": "19:55",
+        "raw_time_range": "7:55–8:10",
+        "location": "714 Governor Nichols St.",
+        "title": "Welcome + \"NOAI\" Burial",
+        "presenters": "Blake Bertuccelli-Booth",
+        "type": "Informational",
+        "tag": "",
+        "presentation_id": 2902
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "8:10 PM",
+        "sort_time": "20:10",
+        "raw_time_range": "8:10–8:20",
+        "location": "714 Governor Nichols St.",
+        "title": "AI Resume Matching Service",
+        "presenters": "Mason Mitchell",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": 2737
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "8:20 PM",
+        "sort_time": "20:20",
+        "raw_time_range": "8:20–8:30",
+        "location": "714 Governor Nichols St.",
+        "title": "Coding for Good at AI Speed",
+        "presenters": "Adam Davies",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": 2654
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "8:30 PM",
+        "sort_time": "20:30",
+        "raw_time_range": "8:30–8:40",
+        "location": "714 Governor Nichols St.",
+        "title": "Design Better With AI",
+        "presenters": "Steven Achord",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": 2611
+      },
+      {
+        "year": "2026",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "8:40 PM",
+        "sort_time": "20:40",
+        "raw_time_range": "8:40–8:50",
+        "location": "714 Governor Nichols St.",
+        "title": "Why Playing Chess and Eating Ice Cream in the Street Matters",
+        "presenters": "Baylee Badawy + Jude Acers",
+        "type": "Lightning Talk",
+        "tag": "Lightning Talks",
+        "presentation_id": 2644
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "9:30 AM",
+        "sort_time": "09:30",
+        "raw_time_range": "9:30–10:30",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Tai Chi Basics",
+        "presenters": "Blake Bertuccelli-Booth",
+        "type": "Workshop",
+        "tag": "Wellness",
+        "presentation_id": 2823
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "10:30 AM",
+        "sort_time": "10:30",
+        "raw_time_range": "10:30–12:00",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Analog Intelligence Since 1440: A Hands-On Letterpress Workshop",
+        "presenters": "Joseph Makkos",
+        "type": "Workshop",
+        "tag": "Creative & Craft",
+        "presentation_id": 2820
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "1:00 PM",
+        "sort_time": "13:00",
+        "raw_time_range": "1:00–2:15",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Why Machines Cannot Crochet",
+        "presenters": "Julia Feliciano",
+        "type": "Workshop",
+        "tag": "Creative & Craft",
+        "presentation_id": 2803
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "2:15 PM",
+        "sort_time": "14:15",
+        "raw_time_range": "2:15–3:45",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Age of AI Meets Pre-Internet Times: How to Build an Offline Voice AI Chat Bot",
+        "presenters": "Vanessa Pyne",
+        "type": "Workshop",
+        "tag": "AI & Technology",
+        "presentation_id": 2900
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "3:45 PM",
+        "sort_time": "15:45",
+        "raw_time_range": "3:45–5:00",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "E-Bike Conversion Speedrun",
+        "presenters": "Matt Candler",
+        "type": "Workshop",
+        "tag": "Sustainability",
+        "presentation_id": 2729
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "5:00 PM",
+        "sort_time": "17:00",
+        "raw_time_range": "5:00–6:00",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Intro to Clown",
+        "presenters": "Grace Bertuccelli-Booth",
+        "type": "Workshop",
+        "tag": "Analog Interfaces",
+        "presentation_id": 2749
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "9:30 AM",
+        "sort_time": "09:30",
+        "raw_time_range": "9:30–10:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Who You Callin' Soft?! People Skills and Communication Skills in the Agentic Age",
+        "presenters": "Stefan Poole",
+        "type": "",
+        "tag": "Career & Leadership",
+        "presentation_id": 2815
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "10:05 AM",
+        "sort_time": "10:05",
+        "raw_time_range": "10:05–10:35",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "The Message Runner",
+        "presenters": "Dan Woods",
+        "type": "",
+        "tag": "AI & Technology",
+        "presentation_id": 2650
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "10:40 AM",
+        "sort_time": "10:40",
+        "raw_time_range": "10:40–11:10",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "AI, Gaussian Splatting, and the Future of Visual Effects",
+        "presenters": "Trai Thomas",
+        "type": "",
+        "tag": "AI & Technology",
+        "presentation_id": 2706
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "11:15 AM",
+        "sort_time": "11:15",
+        "raw_time_range": "11:15–11:45",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Beyond Technical Expertise: The Skills That Drive Success",
+        "presenters": "Nathan Stockman",
+        "type": "",
+        "tag": "Career & Leadership",
+        "presentation_id": 2800
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "12:00 PM",
+        "sort_time": "12:00",
+        "raw_time_range": "12:00–1:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Lunch and ACX Meetup",
+        "presenters": "Astral Codex Ten",
+        "type": "Networking",
+        "tag": "Networking",
+        "presentation_id": 2914
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "1:00 PM",
+        "sort_time": "13:00",
+        "raw_time_range": "1:00–2:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Civic and Community Engaged AI in New Orleans",
+        "presenters": "Center for Community-Engaged Artificial Intelligence",
+        "type": "Panel",
+        "tag": "Community & Civic",
+        "presentation_id": 2607
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "2:00 PM",
+        "sort_time": "14:00",
+        "raw_time_range": "2:00–2:30",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Designing an AI Literacy Course",
+        "presenters": "Rebecca Gaillot",
+        "type": "",
+        "tag": "Education",
+        "presentation_id": 2656
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "2:30 PM",
+        "sort_time": "14:30",
+        "raw_time_range": "2:30–3:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Designing AI Agents Like Computer Systems",
+        "presenters": "Yinkun Qu",
+        "type": "",
+        "tag": "Engineering",
+        "presentation_id": 2631
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "3:00 PM",
+        "sort_time": "15:00",
+        "raw_time_range": "3:00–3:30",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Temporal Mental Models: Engineering Software That Reasons Over Time",
+        "presenters": "George Mauer",
+        "type": "",
+        "tag": "Engineering",
+        "presentation_id": 2640
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "3:30 PM",
+        "sort_time": "15:30",
+        "raw_time_range": "3:30–4:15",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Funding AI in NOLA Schools Fireside Chat",
+        "presenters": "Davis Zaunbrecher",
+        "type": "Fireside Chat",
+        "tag": "Education, Policy & Funding",
+        "presentation_id": 2905
+      },
+      {
+        "year": "2026",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "4:15 PM",
+        "sort_time": "16:15",
+        "raw_time_range": "4:15–5:15",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "AI Leaders Update and Panel",
+        "presenters": "",
+        "type": "Panel",
+        "tag": "Business & Strategy",
+        "presentation_id": 2906
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "9:30 AM",
+        "sort_time": "09:30",
+        "raw_time_range": "9:30–10:45",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Small Language Models",
+        "presenters": "Sabelo Jupiter",
+        "type": "Workshop",
+        "tag": "AI & Technology",
+        "presentation_id": 2826
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "10:45 AM",
+        "sort_time": "10:45",
+        "raw_time_range": "10:45–12:00",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Free and Private Agentic AI: Local Agents Crash Course",
+        "presenters": "Legare Kerrison",
+        "type": "Workshop",
+        "tag": "AI & Technology",
+        "presentation_id": 2720
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "1:00 PM",
+        "sort_time": "13:00",
+        "raw_time_range": "1:00–2:30",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "The Intentional Page: A Device-Free Writing Lab with S.I.L.K.",
+        "presenters": "Marcus Rosser + Kaylon Seaberry",
+        "type": "Workshop",
+        "tag": "Wellness",
+        "presentation_id": 2754
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "2:30 PM",
+        "sort_time": "14:30",
+        "raw_time_range": "2:30–3:45",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "The Most Valuable AI Skill Is Saying No: Screening AI Use Cases for Real Return",
+        "presenters": "Dustin T. Hughes",
+        "type": "Workshop",
+        "tag": "Business & Strategy",
+        "presentation_id": 2732
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "3:45 PM",
+        "sort_time": "15:45",
+        "raw_time_range": "3:45–5:00",
+        "location": "Education Center • 400 Esplanade Ave",
+        "title": "Explain It: Redesigning Assessment for the AI Classroom",
+        "presenters": "Dr. Blaine Fisher",
+        "type": "Workshop",
+        "tag": "Education",
+        "presentation_id": 2647
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "9:30 AM",
+        "sort_time": "09:30",
+        "raw_time_range": "9:30–10:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "AI and Autonomy in Land, Sea, and Sky in Louisiana",
+        "presenters": "Josh Fleig, Chief Innovation Officer, LED",
+        "type": "",
+        "tag": "AI & Technology",
+        "presentation_id": 2907
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "10:00 AM",
+        "sort_time": "10:00",
+        "raw_time_range": "10:00–10:45",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "From Chatting to Doing: Putting Your AI Tools to Work",
+        "presenters": "Knud Berthelsen",
+        "type": "",
+        "tag": "AI & Technology",
+        "presentation_id": 2908
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "10:45 AM",
+        "sort_time": "10:45",
+        "raw_time_range": "10:45–12:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "AI in Action: Competitive Research and LinkedIn Networking & Sales Prospecting Done for You",
+        "presenters": "Tom Martin + Bill Dalton",
+        "type": "",
+        "tag": "Business & Strategy",
+        "presentation_id": 2909
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "12:00 PM",
+        "sort_time": "12:00",
+        "raw_time_range": "12:00–1:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Lunch",
+        "presenters": "",
+        "type": "Food",
+        "tag": "Networking",
+        "presentation_id": null
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "1:00 PM",
+        "sort_time": "13:00",
+        "raw_time_range": "1:00–2:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Building AI Into Businesses",
+        "presenters": "Jesse Hoppes",
+        "type": "Panel",
+        "tag": "Business & Strategy",
+        "presentation_id": 2910
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "2:00 PM",
+        "sort_time": "14:00",
+        "raw_time_range": "2:00–2:45",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Your Next Hire Doesn't Sleep: What it costs to put AI on the payroll, and what it costs not to",
+        "presenters": "Damon Kirin + Rob Gaudet",
+        "type": "",
+        "tag": "Business & Strategy",
+        "presentation_id": 2911
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "2:45 PM",
+        "sort_time": "14:45",
+        "raw_time_range": "2:45–3:30",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Investing where the puck is . . . going? Going? Gone!",
+        "presenters": "Mickal Adler / Boot64 Ventures",
+        "type": "",
+        "tag": "Business & Strategy",
+        "presentation_id": 2912
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "3:30 PM",
+        "sort_time": "15:30",
+        "raw_time_range": "3:30–4:15",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "50 First Dates with AI",
+        "presenters": "Ryan Hageman",
+        "type": "",
+        "tag": "AI & Technology",
+        "presentation_id": 2621
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "4:15 PM",
+        "sort_time": "16:15",
+        "raw_time_range": "4:15–5:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "AI Made Us Faster. Evidence Makes Us Confident.",
+        "presenters": "Dustin Gaspard",
+        "type": "",
+        "tag": "Business & Strategy",
+        "presentation_id": 2624
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "5:00 PM",
+        "sort_time": "17:00",
+        "raw_time_range": "5:00–5:45",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "A Four Horsemen of Sustainable Innovation?",
+        "presenters": "Johnnie James II",
+        "type": "Panel",
+        "tag": "Analog Interfaces",
+        "presentation_id": 2662
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "5:55 PM",
+        "sort_time": "17:55",
+        "raw_time_range": "5:55–6:00",
+        "location": "Main Stage • 400 Esplanade Ave",
+        "title": "Conference 2027 Theme Announce",
+        "presenters": "",
+        "type": "Announcement",
+        "tag": "Networking",
+        "presentation_id": 2913
+      },
+      {
+        "year": "2026",
+        "day": "Friday",
+        "date": "2026-11-13",
+        "time": "7:00 PM",
+        "sort_time": "19:00",
+        "raw_time_range": "7:00 →",
+        "location": "TBA",
+        "title": "Secret Friday 13th Afterparty",
+        "presenters": "",
+        "type": "Party",
+        "tag": "Networking",
+        "presentation_id": null
+      }
+    ],
+    "presentations": [
+      {
+        "id": 2901,
+        "slug": "keynote-is-ai-acceleration-good-for-new-orleans-by-jp-morrell",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "JP Morrell",
+          "presenter_photo_url": "media/jp-morrell-headshot.jpg"
+        }
+      },
+      {
+        "id": 2760,
+        "slug": "open-the-studio-a-community-technology-curriculum-anyone-can-run-by-marcus-rosser",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Marcus Rosser",
+          "presenter_photo_url": "media/presenter-118-marcus-rosser-noai-headshot.jpg"
+        }
+      },
+      {
+        "id": 2813,
+        "slug": "nobody-asked-for-this-by-camron-caldwell",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Cam’ron Caldwell",
+          "presenter_photo_url": null
+        }
+      },
+      {
+        "id": 2904,
+        "slug": "future-of-education-fireside-chat",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Mary Hubbard, Ronnie Morris & Dr. Jim Henderson",
+          "presenter_photo_url": ""
+        }
+      },
+      {
+        "id": 2903,
+        "slug": "noai-secondline-to-francis-ford-coppolas-house",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "",
+          "presenter_photo_url": ""
+        }
+      },
+      {
+        "id": 2902,
+        "slug": "welcome-noai-burial",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Blake Bertuccelli-Booth",
+          "presenter_photo_url": "media/1933-1742265570063.jpg"
+        }
+      },
+      {
+        "id": 2737,
+        "slug": "ai-resume-matching-service-by-mason-mitchell",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Mason Mitchell",
+          "presenter_photo_url": "media/presenter-97-1783645738403.jpeg"
+        }
+      },
+      {
+        "id": 2654,
+        "slug": "coding-for-good-at-ai-speed-mapping-new-orleans-bumpy-roads-by-adam-davies",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Adam Davies",
+          "presenter_photo_url": null
+        }
+      },
+      {
+        "id": 2611,
+        "slug": "design-better-with-ai-human-thinking-modern-workflows-by-steven-achord",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Steven Achord",
+          "presenter_photo_url": "media/presenter-123-steve-cd.jpg"
+        }
+      },
+      {
+        "id": 2644,
+        "slug": "why-playing-chess-and-eating-ice-cream-in-the-street-matters-a-case-study-by-baylee-badawy",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "5:30 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "baylee badawy",
+          "presenter_photo_url": "media/presenter-103-IMG_5870-scaled.jpeg"
+        }
+      },
+      {
+        "id": 2823,
+        "slug": "tai-chi-basics-by-blake-bertuccelli-booth",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "9:30 AM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Blake Bertuccelli-Booth",
+          "presenter_photo_url": "media/presenter-128-DSC6981.jpeg"
+        }
+      },
+      {
+        "id": 2820,
+        "slug": "analog-intelligence-since-1440-a-hands-on-letterpress-workshop-by-joseph-makkos",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "10:30 AM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Joseph Makkos",
+          "presenter_photo_url": "media/presenter-129-JS-Tubes.jpg"
+        }
+      },
+      {
+        "id": 2803,
+        "slug": "why-machines-cannot-crochet-by-julia-feliciano",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "1:00 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Julia Feliciano",
+          "presenter_photo_url": "media/presenter-104-Julia.jpg"
+        }
+      },
+      {
+        "id": 2900,
+        "slug": "age-of-ai-meets-pre-internet-times-how-to-build-an-offline-voice-ai-chat-bot-by-vanessa-pyne",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "2:15 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Vanessa Pyne",
+          "presenter_photo_url": "media/presenter-132-vanessa-pyne.jpg"
+        }
+      },
+      {
+        "id": 2729,
+        "slug": "e-bike-conversion-speedrun-by-matt-candler",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "4:00 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Matt Candler",
+          "presenter_photo_url": "media/presenter-113-candler.jpg"
+        }
+      },
+      {
+        "id": 2749,
+        "slug": "intro-to-clown-by-grace-bertuccelli-booth",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Grace Bertuccelli-Booth",
+          "presenter_photo_url": "media/presenter-101-Grace-Booth-Headshot-2-scaled.jpg"
+        }
+      },
+      {
+        "id": 2815,
+        "slug": "who-you-callin-soft-people-skills-and-communication-skills-in-the-agentic-age-by-stefan-poole",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "9:30 AM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Stefan Poole",
+          "presenter_photo_url": "media/presenter-130-Plaque-Cityscape.jpg"
+        }
+      },
+      {
+        "id": 2650,
+        "slug": "the-message-runner-what-tech-can-learn-from-the-creative-practices-of-theater-film-and-tv-by-dan-woods",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "10:05 AM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Dan Woods",
+          "presenter_photo_url": "media/1004-DSC8209_Under1Meg-scaled.jpg"
+        }
+      },
+      {
+        "id": 2706,
+        "slug": "artificial-intelligence-gaussian-splatting-and-the-future-of-visual-effects-lessons-from-the-production-of-cyberpunk-manifesto-by-trai-thomas",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "10:40 AM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Trai Thomas",
+          "presenter_photo_url": "media/presenter-109-Screenshot-2026-08-19-at-1.46.53-in-the-afternoon.png"
+        }
+      },
+      {
+        "id": 2800,
+        "slug": "beyond-technical-expertise-the-skills-that-drive-success-by-nathan-stockman",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "11:15 AM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Nathan Stockman",
+          "presenter_photo_url": "media/presenter-99-Blue-shirt-no-tie.jpeg"
+        }
+      },
+      {
+        "id": 2914,
+        "slug": "lunch-and-acx-meetup",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Astral Codex Ten",
+          "presenter_photo_url": "media/sponsors/astral-codex-ten.jpeg"
+        }
+      },
+      {
+        "id": 2607,
+        "slug": "ai-together-service-learning-and-community-engaged-ai-in-new-orleans-by-nicholas-mattei",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "1:00 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Center for Community-Engaged Artificial Intelligence",
+          "presenter_photo_url": "media/ceai-logo.jpg"
+        }
+      },
+      {
+        "id": 2656,
+        "slug": "designing-an-ai-literacy-course",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "2:05 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Rebecca Gaillot",
+          "presenter_photo_url": "media/rebecca-gaillot-headshot.jpg"
+        }
+      },
+      {
+        "id": 2631,
+        "slug": "designing-ai-agents-like-computer-systems-by-yinkun-qu",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "2:40 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Yinkun Qu",
+          "presenter_photo_url": null
+        }
+      },
+      {
+        "id": 2640,
+        "slug": "temporal-mental-models-by-george-mauer",
+        "scraped_fields": {
+          "date": "11/12/2026",
+          "time": "3:15 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "George Mauer",
+          "presenter_photo_url": "media/presenter-121-me.jpg"
+        }
+      },
+      {
+        "id": 2905,
+        "slug": "funding-ai-in-nola-schools-fireside-chat",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Davis Zaunbrecher",
+          "presenter_photo_url": "media/davis-zaunbrecher-headshot.jpg"
+        }
+      },
+      {
+        "id": 2906,
+        "slug": "ai-leaders-update-and-panel",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "",
+          "presenter_photo_url": ""
+        }
+      },
+      {
+        "id": 2826,
+        "slug": "small-language-models-the-most-important-least-understood-highly-impactful-portion-of-the-industry-by-sabelo-jupiter",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "9:30 AM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Sabelo Jupiter",
+          "presenter_photo_url": null
+        }
+      },
+      {
+        "id": 2720,
+        "slug": "free-and-private-agentic-ai-local-agents-crash-course-by-legare-kerrison",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "10:45 AM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Legare Kerrison",
+          "presenter_photo_url": "media/presenter-124-unnamed.jpg"
+        }
+      },
+      {
+        "id": 2754,
+        "slug": "the-intentional-page-a-device-free-writing-lab-with-s-i-l-k-by-marcus-rosser-and-kaylon-seaberry-s-i-l-k",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "3:30 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Marcus Rosser and Kaylon Seaberry (S.I.L.K.)",
+          "presenter_photo_url": "media/presenter-118-marcus-rosser-noai-headshot.jpg"
+        }
+      },
+      {
+        "id": 2732,
+        "slug": "the-most-valuable-ai-skill-is-saying-no-screening-ai-use-cases-for-real-return-by-dustin-t-hughes",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "1:00 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Dustin T Hughes",
+          "presenter_photo_url": "media/2202-1691175172269.jpg"
+        }
+      },
+      {
+        "id": 2647,
+        "slug": "explain-it-redesigning-assessment-for-the-ai-classroom-by-dr-blaine-fisher",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "2:15 PM",
+          "location": "Education Center • 400 Esplanade Ave",
+          "presenter_name": "Dr. Blaine Fisher",
+          "presenter_photo_url": "media/presenter-125-vlaine-fisher-new200.jpg"
+        }
+      },
+      {
+        "id": 2907,
+        "slug": "ai-and-autonomy-in-land-sea-and-sky-in-louisiana",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Josh Fleig, Chief Innovation Officer",
+          "presenter_photo_url": "media/josh-fleig-headshot.jpg"
+        }
+      },
+      {
+        "id": 2908,
+        "slug": "from-chatting-to-doing-putting-your-ai-tools-to-work-by-knud-berthelsen",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Knud Berthelsen",
+          "presenter_photo_url": "media/knud-berthelsen-headshot.jpg"
+        }
+      },
+      {
+        "id": 2909,
+        "slug": "ai-in-action-competitive-research-and-linkedin-networking-sales-prospecting-done-for-you-by-tom-martin-bill-dalton",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Tom Martin & Bill Dalton",
+          "presenter_photo_url": "media/presenter-110-Tom-Martin-2026-Headshot.jpg"
+        }
+      },
+      {
+        "id": 2910,
+        "slug": "building-ai-into-businesses-by-jesse-hoppes",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "1:00 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Jesse Hoppes",
+          "presenter_photo_url": "media/jesse-hoppes-headshot.jpg"
+        }
+      },
+      {
+        "id": 2911,
+        "slug": "your-next-hire-doesnt-sleep-what-it-costs-to-put-ai-on-the-payroll-and-what-it-costs-not-to-by-damon-kirin-rob-gaudet",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Damon Kirin & Rob Gaudet",
+          "presenter_photo_url": "media/damon-kirin-headshot.png"
+        }
+      },
+      {
+        "id": 2912,
+        "slug": "investing-where-the-puck-is-going-going-gone-by-mickal-adler",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Mickal Adler, Boot64 Ventures",
+          "presenter_photo_url": "media/mickal-adler-headshot.jpg"
+        }
+      },
+      {
+        "id": 2621,
+        "slug": "50-first-dates-with-ai-by-ryan-hageman",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "3:30 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Ryan Hageman",
+          "presenter_photo_url": "media/presenter-108-Ryan-Hageman-Headshot.png"
+        }
+      },
+      {
+        "id": 2624,
+        "slug": "ai-made-us-faster-evidence-makes-us-confident-by-dustin-p-gaspard",
+        "scraped_fields": {
+          "date": "11/13/2026",
+          "time": "4:15 PM",
+          "location": "Main Stage • 400 Esplanade Ave",
+          "presenter_name": "Dustin P Gaspard",
+          "presenter_photo_url": "media/932-Screenshot-2023-09-27-at-12.47.44-PM.png"
+        }
+      },
+      {
+        "id": 2662,
+        "slug": "a-four-horsemen-of-sustainable-innovation-by-johnnie-james-ii",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "Johnnie James II",
+          "presenter_photo_url": "media/2199-johnnie-headshot-small1.jpg"
+        }
+      },
+      {
+        "id": 2913,
+        "slug": "conference-2027-theme-announce",
+        "scraped_fields": {
+          "date": null,
+          "time": null,
+          "location": null,
+          "presenter_name": "",
+          "presenter_photo_url": ""
+        }
+      }
+    ]
+  },
+  "topicSummaries": {
+    "noai-2026-event-doors-reception-music": "",
+    "noai-2026-event-welcome-opening-remarks": "",
+    "noai-2026-p2901": "JP Morrell considers how city policy can shape the effects of AI adoption in New Orleans.",
+    "noai-2026-p2760": "Marcus Rosser discusses ways to turn community technology workshops into programs others can maintain.",
+    "noai-2026-event-the-ella-project-what-we-do": "",
+    "noai-2026-p2813": "Cam'ron Caldwell explores unusual creative projects driven by curiosity rather than a fixed use case.",
+    "noai-2026-p2904": "A conversation spanning classroom practice, educational policy, and changes in higher education.",
+    "noai-2026-p2903": "A brass-band walk marks the change from NOAI to the Arts & Ideas festival name.",
+    "noai-2026-event-party-talks-tarot-and-noai-burial": "",
+    "noai-2026-p2902": "Blake welcomes the evening gathering and marks a new chapter in the festival identity.",
+    "noai-2026-p2737": "Mason Mitchell examines AI-assisted resumes and matching in academic opportunity searches.",
+    "noai-2026-p2654": "Adam Davies traces a bicycle road-quality app from an initial idea through testing on real rides.",
+    "noai-2026-p2611": "Steven Achord discusses taste and deliberate choices when using AI in design work.",
+    "noai-2026-p2644": "Baylee Badawy and Jude Acers bring street chess into a conversation about everyday public gathering.",
+    "noai-2026-p2823": "A guided introduction to a sequence of Tai Chi movements outdoors.",
+    "noai-2026-p2820": "Participants explore traditional printmaking by arranging movable type and using a working press.",
+    "noai-2026-p2803": "Julia Feliciano explores crochet as a human craft through textile history and making.",
+    "noai-2026-p2900": "Vanessa Pyne guides participants through assembling a voice bot that runs on their own computer.",
+    "noai-2026-p2729": "Matt Candler uses a bicycle conversion to explore batteries, motors, and electrical controls.",
+    "noai-2026-p2749": "Grace Bertuccelli-Booth introduces theatrical clown through play, improvisation, and audience connection.",
+    "noai-2026-p2815": "Stefan Poole examines communication and judgment in work involving AI agents.",
+    "noai-2026-p2650": "Dan Woods proposes bringing practices from theater direction to shared purpose in technology teams.",
+    "noai-2026-p2706": "Trai Thomas draws on independent film production to examine new visual-effects workflows.",
+    "noai-2026-p2800": "Nathan Stockman explores how transferable skills develop alongside technical ability.",
+    "noai-2026-p2914": "An opportunity to share lunch, with an optional gathering for Astral Codex Ten readers.",
+    "noai-2026-p2607": "A discussion of community involvement in building AI tools for civic participation and public information.",
+    "noai-2026-p2656": "Rebecca Gaillot shares classroom activities and lessons from a high-school course on responsible AI use.",
+    "noai-2026-p2631": "Yinkun Qu connects computer architecture concepts with the design of AI agent systems.",
+    "noai-2026-p2640": "George Mauer shares a way to understand durable execution in Temporal, grounded in production work.",
+    "noai-2026-p2905": "Davis Zaunbrecher discusses support and funding for AI education initiatives in local public schools.",
+    "noai-2026-p2906": "A panel takes stock of AI work across New Orleans and considers the year ahead.",
+    "noai-2026-p2826": "Sabelo Jupiter discusses smaller models and the prospect of running and adapting models locally.",
+    "noai-2026-p2720": "Legare Kerrison leads a practical introduction to AI agents built with local, open-source tools.",
+    "noai-2026-p2754": "Marcus Rosser and Kaylon Seaberry guide short writing exercises centered on observation and revision.",
+    "noai-2026-p2732": "Dustin T. Hughes leads participants through evaluating AI project ideas against their everyday work.",
+    "noai-2026-p2647": "Blaine Fisher explores oral defenses as a way to assess student reasoning alongside written work.",
+    "noai-2026-p2907": "Josh Fleig discusses autonomous systems and technology development across Louisiana.",
+    "noai-2026-p2908": "Knud Berthelsen explores AI workflows that carry out tasks beyond a chat conversation.",
+    "noai-2026-p2909": "Tom Martin and Bill Dalton discuss AI-assisted networking and competitive market research.",
+    "noai-2026-event-lunch": "",
+    "noai-2026-p2910": "Jesse Hoppes hosts practical examples and a discussion with business people building their own AI tools.",
+    "noai-2026-p2911": "Rob Gaudet and Damon Kirin examine operational capacity, oversight, and costs when businesses use AI.",
+    "noai-2026-p2912": "Mickal Adler reflects on venture investment decisions while technologies and markets keep changing.",
+    "noai-2026-p2621": "Ryan Hageman explores reusable context and memory for productive work with AI assistants.",
+    "noai-2026-p2624": "Dustin Gaspard discusses producing test and contract evidence alongside AI-assisted software changes.",
+    "noai-2026-p2662": "Johnnie James II connects open technology, business, access, and craft through a material-innovation case study.",
+    "noai-2026-p2913": "A closing announcement introduces the next festival theme.",
+    "noai-2026-event-secret-friday-13th-afterparty": ""
+  }
+}
